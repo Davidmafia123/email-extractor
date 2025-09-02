@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidmafia123/email-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Davidmafia123/email-extractor/issues"
+  },
+  "homepage": "https://github.com/Davidmafia123/email-extractor#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
